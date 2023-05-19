@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 19 14:17:22 CAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instance a816c00e-0186-699b-79e9-000005ac3ee8 
+on database directory C:\Users\Gerson\3D Objects\Files\Executavel & Codigo Fonte\Executavel\Mini - App\digitalwerehouse  with class loader sun.misc.Launcher$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gerson/3D%20Objects/Files/Executavel%20&%20Codigo%20Fonte/Executavel/Mini%20-%20App/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=C:\Users\Gerson\3D Objects\Files\Executavel & Codigo Fonte\Executavel\Mini - App
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
